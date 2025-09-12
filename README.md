@@ -1,6 +1,6 @@
 ---
 type: "project" # DON'T TOUCH THIS ! :)
-date: "2025-06-18" # Date you first upload your project.
+date: " " # Date you first upload your project.
 # Title of your project (we like creative title)
 title: "Brian Tumor Detection in MRI Using Faster R-CNN"
 
